@@ -7,7 +7,7 @@
 
 [![AWebDB Maven](https://img.shields.io/badge/SpinnerLoading-1.0.0-brightgreen.svg)](https://bintray.com/lusfold/maven/SpinnerLoading/view)
 
-# Quickstart
+# QuickStart
 
 
 
